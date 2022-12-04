@@ -20,7 +20,12 @@
       "id": "abc001_2",
       "label": "B",
       "title": "視程の通報",
-      "url": "https://atcoder.jp/contests/abc001/tasks/abc001_2"
+      "url": "https://atcoder.jp/contests/abc001/tasks/abc001_2",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.go"
+      }
     },
     {
       "id": "abc001_3",
