@@ -31,7 +31,12 @@
       "id": "abc001_3",
       "label": "C",
       "title": "風力観測",
-      "url": "https://atcoder.jp/contests/abc001/tasks/abc001_3"
+      "url": "https://atcoder.jp/contests/abc001/tasks/abc001_3",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.go"
+      }
     },
     {
       "id": "abc001_4",
