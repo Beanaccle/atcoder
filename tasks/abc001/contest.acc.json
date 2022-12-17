@@ -42,7 +42,12 @@
       "id": "abc001_4",
       "label": "D",
       "title": "感雨時刻の整理",
-      "url": "https://atcoder.jp/contests/abc001/tasks/abc001_4"
+      "url": "https://atcoder.jp/contests/abc001/tasks/abc001_4",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.go"
+      }
     }
   ]
 }
