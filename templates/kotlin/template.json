@@ -1,0 +1,7 @@
+{
+  "task":{
+    "program": ["Main.kt"],
+    "submit": "Main.kt",
+    "testdir": "test"
+  }
+}
