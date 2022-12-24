@@ -20,7 +20,12 @@
       "id": "abc002_2",
       "label": "B",
       "title": "罠",
-      "url": "https://atcoder.jp/contests/abc002/tasks/abc002_2"
+      "url": "https://atcoder.jp/contests/abc002/tasks/abc002_2",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.go"
+      }
     },
     {
       "id": "abc002_3",
