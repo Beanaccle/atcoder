@@ -31,7 +31,12 @@
       "id": "abc002_3",
       "label": "C",
       "title": "直訴",
-      "url": "https://atcoder.jp/contests/abc002/tasks/abc002_3"
+      "url": "https://atcoder.jp/contests/abc002/tasks/abc002_3",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.go"
+      }
     },
     {
       "id": "abc002_4",
