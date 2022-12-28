@@ -20,7 +20,12 @@
       "id": "abc003_2",
       "label": "B",
       "title": "AtCoderトランプ",
-      "url": "https://atcoder.jp/contests/abc003/tasks/abc003_2"
+      "url": "https://atcoder.jp/contests/abc003/tasks/abc003_2",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.go"
+      }
     },
     {
       "id": "abc003_3",
