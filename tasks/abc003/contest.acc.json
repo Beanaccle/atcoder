@@ -31,7 +31,12 @@
       "id": "abc003_3",
       "label": "C",
       "title": "AtCoderプログラミング講座",
-      "url": "https://atcoder.jp/contests/abc003/tasks/abc003_3"
+      "url": "https://atcoder.jp/contests/abc003/tasks/abc003_3",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.go"
+      }
     },
     {
       "id": "abc003_4",
