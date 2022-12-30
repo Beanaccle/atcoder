@@ -42,7 +42,12 @@
       "id": "abc003_4",
       "label": "D",
       "title": "AtCoder社の冬",
-      "url": "https://atcoder.jp/contests/abc003/tasks/abc003_4"
+      "url": "https://atcoder.jp/contests/abc003/tasks/abc003_4",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.go"
+      }
     }
   ]
 }
