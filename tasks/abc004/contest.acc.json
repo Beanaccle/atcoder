@@ -31,7 +31,12 @@
       "id": "abc004_3",
       "label": "C",
       "title": "入れ替え",
-      "url": "https://atcoder.jp/contests/abc004/tasks/abc004_3"
+      "url": "https://atcoder.jp/contests/abc004/tasks/abc004_3",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.go"
+      }
     },
     {
       "id": "abc004_4",
