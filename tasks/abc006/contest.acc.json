@@ -19,7 +19,11 @@
       "id": "abc006_2",
       "label": "B",
       "title": "トリボナッチ数列",
-      "url": "https://atcoder.jp/contests/abc006/tasks/abc006_2"
+      "url": "https://atcoder.jp/contests/abc006/tasks/abc006_2",
+      "directory": {
+        "path": "b",
+        "testdir": "test"
+      }
     },
     {
       "id": "abc006_3",
