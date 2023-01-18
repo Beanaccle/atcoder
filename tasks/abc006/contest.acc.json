@@ -39,7 +39,11 @@
       "id": "abc006_4",
       "label": "D",
       "title": "トランプ挿入ソート",
-      "url": "https://atcoder.jp/contests/abc006/tasks/abc006_4"
+      "url": "https://atcoder.jp/contests/abc006/tasks/abc006_4",
+      "directory": {
+        "path": "d",
+        "testdir": "test"
+      }
     }
   ]
 }
