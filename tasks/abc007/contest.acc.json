@@ -19,7 +19,11 @@
       "id": "abc007_2",
       "label": "B",
       "title": "辞書式順序",
-      "url": "https://atcoder.jp/contests/abc007/tasks/abc007_2"
+      "url": "https://atcoder.jp/contests/abc007/tasks/abc007_2",
+      "directory": {
+        "path": "b",
+        "testdir": "test"
+      }
     },
     {
       "id": "abc007_3",
