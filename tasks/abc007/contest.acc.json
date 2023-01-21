@@ -29,7 +29,11 @@
       "id": "abc007_3",
       "label": "C",
       "title": "幅優先探索",
-      "url": "https://atcoder.jp/contests/abc007/tasks/abc007_3"
+      "url": "https://atcoder.jp/contests/abc007/tasks/abc007_3",
+      "directory": {
+        "path": "c",
+        "testdir": "test"
+      }
     },
     {
       "id": "abc007_4",
