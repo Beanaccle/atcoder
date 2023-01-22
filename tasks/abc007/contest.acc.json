@@ -39,7 +39,11 @@
       "id": "abc007_4",
       "label": "D",
       "title": "禁止された数字",
-      "url": "https://atcoder.jp/contests/abc007/tasks/abc007_4"
+      "url": "https://atcoder.jp/contests/abc007/tasks/abc007_4",
+      "directory": {
+        "path": "d",
+        "testdir": "test"
+      }
     }
   ]
 }
